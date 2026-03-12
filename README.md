@@ -33,9 +33,9 @@ Welcome to my digital workspace! I'm a final-year Computer Engineering student a
 
 ## 🚀 Featured Projects
 
-* ☁️ **[Cloud Native AWS Infrastructure](https://github.com/joaoevaristo11)**: Architected a highly available, auto-scalable API infrastructure from scratch. Provisioned via **Terraform**, containerized with **Docker**, and orchestrated on an AWS EKS (**Kubernetes**) cluster.
-* 📡 **[EchoState](https://github.com/joaoevaristo11)**: A distributed observability system reducing network connectivity detection time. Built with **Python** streaming agents, a **Java Spring Boot** central API, and **InfluxDB** for time-series metrics.
-* 🎬 **[Just Takes](https://github.com/joaoevaristo11)**: A full-stack multimedia review platform in active development. Built on the **MERN** stack with robust JWT authentication and a highly responsive **React 19** frontend.
+* ☁️ **[Cloud Native AWS Infrastructure](https://github.com/joaoevaristo11/cloud-native-foundation)**: Architected a highly available, auto-scalable API infrastructure from scratch. Provisioned via **Terraform**, containerized with **Docker**, and orchestrated on an AWS EKS (**Kubernetes**) cluster.
+* 📡 **[EchoState](https://github.com/joaoevaristo11/EchoState)**: A distributed observability system reducing network connectivity detection time. Built with **Python** streaming agents, a **Java Spring Boot** central API, and **InfluxDB** for time-series metrics.
+* 🎬 **[Just Takes](https://github.com/joaoevaristo11/justtakes)**: A full-stack multimedia review platform in active development. Built on the **MERN** stack with robust JWT authentication and a highly responsive **React 19** frontend.
 
 ---
 
