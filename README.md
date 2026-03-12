@@ -1,8 +1,8 @@
 # Hi there, I'm João Evaristo 👋
 
-### 🚀 Network & Software Engineering Student | [cite_start]Cloud & Full-Stack Developer [cite: 2, 6]
+### 🚀 Network & Software Engineering Student | Cloud & Full-Stack Developer
 
-Welcome to my digital workspace! [cite_start]I'm a final-year Computer Engineering student at ISEL, specializing in Networks and Telecommunications[cite: 33]. [cite_start]I combine a strong academic foundation in network protocols with self-taught, modern software engineering skills to architect scalable and secure solutions[cite: 6, 7, 8].
+Welcome to my digital workspace! I'm a final-year Computer Engineering student at ISEL, specializing in Networks and Telecommunications. I combine a strong academic foundation in network protocols with self-taught, modern software engineering skills to architect scalable and secure solutions.
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://joaoevaristo11.github.io/My-Website/)
 
@@ -10,11 +10,11 @@ Welcome to my digital workspace! [cite_start]I'm a final-year Computer Engineeri
 
 ## 👨‍💻 About Me
 
-- [cite_start]🎓 **Final-year Student:** B.Sc. in Computer Engineering, Networks and Telecommunications at ISEL[cite: 33].
-- [cite_start]☁️ **Tech Focus:** Building cloud-native infrastructure, distributed network monitors, and full-stack applications[cite: 10, 17, 23].
-- [cite_start]🤝 **Leadership & Community:** Currently serving as an EY Ambassador, connecting students with tech recruiters, and volunteering for Missão País[cite: 35, 40, 41].
-- [cite_start]💡 **Currently Building:** A solution to combat Deepfakes as part of the TechStorm '26 competition[cite: 42].
-- [cite_start]📫 **How to reach me:** [joao.evaristo.work@gmail.com](mailto:joao.evaristo.work@gmail.com) [cite: 3]
+- 🎓 **Final-year Student:** B.Sc. in Computer Engineering, Networks and Telecommunications at ISEL.
+- ☁️ **Tech Focus:** Building cloud-native infrastructure, distributed network monitors, and full-stack applications.
+- 🤝 **Leadership & Community:** Currently serving as an EY Ambassador, connecting students with tech recruiters, and volunteering for Missão País.
+- 💡 **Currently Building:** A solution to combat Deepfakes as part of the TechStorm '26 competition.
+- 📫 **How to reach me:** [joao.evaristo.work@gmail.com](mailto:joao.evaristo.work@gmail.com)
 
 ---
 
@@ -33,9 +33,9 @@ Welcome to my digital workspace! [cite_start]I'm a final-year Computer Engineeri
 
 ## 🚀 Featured Projects
 
-* ☁️ **[Cloud Native AWS Infrastructure](https://github.com/joaoevaristo11)**: Architected a highly available, auto-scalable API infrastructure from scratch. [cite_start]Provisioned via **Terraform**, containerized with **Docker**, and orchestrated on an AWS EKS (**Kubernetes**) cluster[cite: 10, 12, 14].
-* 📡 **[EchoState](https://github.com/joaoevaristo11)**: A distributed observability system reducing network connectivity detection time. [cite_start]Built with **Python** streaming agents, a **Java Spring Boot** central API, and **InfluxDB** for time-series metrics[cite: 16, 19, 20, 22].
-* 🎬 **[Just Takes](https://github.com/joaoevaristo11)**: A full-stack multimedia review platform in active development. [cite_start]Built on the **MERN** stack with robust JWT authentication and a highly responsive **React 19** frontend[cite: 23, 24, 25, 27].
+* ☁️ **[Cloud Native AWS Infrastructure](https://github.com/joaoevaristo11)**: Architected a highly available, auto-scalable API infrastructure from scratch. Provisioned via **Terraform**, containerized with **Docker**, and orchestrated on an AWS EKS (**Kubernetes**) cluster.
+* 📡 **[EchoState](https://github.com/joaoevaristo11)**: A distributed observability system reducing network connectivity detection time. Built with **Python** streaming agents, a **Java Spring Boot** central API, and **InfluxDB** for time-series metrics.
+* 🎬 **[Just Takes](https://github.com/joaoevaristo11)**: A full-stack multimedia review platform in active development. Built on the **MERN** stack with robust JWT authentication and a highly responsive **React 19** frontend.
 
 ---
 
