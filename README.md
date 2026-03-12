@@ -42,7 +42,7 @@ Welcome to my digital workspace! I'm a final-year Computer Engineering student a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoevaristo11&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoevaristo11&theme=radical&hide_border=false" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoevaristo11&theme=radical&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
@@ -62,5 +62,5 @@ Welcome to my digital workspace! I'm a final-year Computer Engineering student a
 
 <div align="center">
   <br/>
-  <img src="https://visitcount.itsvg.in/api?id=joaoevaristo11&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=joaoevaristo11&color=ce77ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
